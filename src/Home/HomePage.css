@@ -1,0 +1,135 @@
+.img-set{
+    height:70%;
+    width:80%;
+}
+.intro-col{
+    color: white;
+    padding-left:150px;
+    letter-spacing:8px;
+    margin-top:200px;
+}
+.intro-size{
+    font-size:40px;
+}
+.intro-size2{
+    font-size: 30px;
+}
+/* 
+ .img-set {
+     height: 100%;
+     width: 100%;
+ }
+
+ .intro-col {
+     padding-left: 100px;
+ }
+
+ .intro-size {
+     font-size: 40px;
+ }
+
+@media screen and (max-width: 1530px) {
+    .img-set {
+            height: 80%;
+            width: 90%;
+    }
+    .intro-col {
+        padding-left: 150px;
+        letter-spacing: 8px;
+     }
+}
+@media screen and (max-width: 1350px) {
+    .img-set {
+        height: 100%;
+        width: 100%;
+    }
+    .intro-col {
+         padding-left: 100px;
+    }
+    .intro-size {
+            font-size: 40px;
+    }
+} */
+
+@media screen and (max-width:1200px){
+    .img-set{
+        height:80%;
+        width: 90%;
+        padding-left:2em;
+    }
+    .intro-col{
+        padding-left: 100px;
+    }
+    .intro-size{
+        font-size:40px;
+    }
+    .intro-size2{
+        font-size:30px;
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .img-set {
+        height: 70%;
+        width: 80%;
+        /* padding-left:2em; */
+    }
+    .intro-size {
+        font-size: 50px;
+    }
+    .intro-col {
+        padding-left: 100px;
+    }
+}
+
+@media screen and (max-width: 795px) {
+    .intro-size3 {
+        font-size: 30px;
+    }
+    .intro-size2 {
+        font-size:20px;
+    }
+}
+@media screen and (max-width: 666px) {
+    .img-set {
+        height: 80%;
+        width: 90%;
+        padding-left: 1em;
+    }
+    .intro-col{
+        padding-left: 50px;
+        letter-spacing: 4px;
+    }
+}
+@media screen and (max-width: 522px) {
+    .img-set {
+        height: 100%;
+        width: 100%;
+        padding-left: 0.5em;
+    }
+
+    .intro-size3 {
+        font-size: 30px;
+    }
+
+    .intro-col {
+        padding-left: 30px;
+        letter-spacing: 2px;
+    }
+
+    .intro-size2 {
+        font-size: 20px;
+    }
+}
+@media screen and (max-width: 455px) {
+
+    .intro-size3 {
+        font-size: 30px;
+    }
+
+    .intro-col {
+        padding-left: 10px;
+        letter-spacing: 1px;
+    }
+
+}
